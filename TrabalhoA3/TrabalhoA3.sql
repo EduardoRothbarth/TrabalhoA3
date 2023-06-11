@@ -1,0 +1,1 @@
+SELECT * FROM trabalhoa3.contato;
